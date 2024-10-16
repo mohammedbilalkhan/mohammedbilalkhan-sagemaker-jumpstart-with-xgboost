@@ -1,1 +1,1 @@
-# mohammedbilalkhan-sagemaker-jumpstart-with-xgboost
+# sagemaker-jumpstart-with-xgboost
